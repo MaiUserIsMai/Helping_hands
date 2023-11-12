@@ -138,8 +138,8 @@ button#LogIn{
 .resourceHeader > h1 {
     font-size: 35px;
     text-align: center;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 
 .briefResources{
