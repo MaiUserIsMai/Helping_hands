@@ -37,11 +37,7 @@ nav > ul > li > a{
     width: auto;
     text-decoration: none;
     color: black;
-    margin-right: 15px;
-}
-
-nav li {
-    margin-right: 100px; /* Adjust as needed for spacing between items */
+    margin-right: 35px;
 }
 
 /*Change contents outside (the position) )Search Bar Input*/
