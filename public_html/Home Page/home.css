@@ -101,7 +101,6 @@ button#LogIn{
 .mission{
     background-color: #F2F4F8;
     display: flex;
-    padding: 20px;
 }
 
 /*change content of the unordered list area*/
@@ -119,7 +118,7 @@ button#LogIn{
     color: #04724D;
     padding-left: 20px;
     margin-top: 100px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 /*change content of the Our Mission Message area (Our mission + statements)*/
