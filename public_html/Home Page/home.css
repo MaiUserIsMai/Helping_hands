@@ -131,7 +131,7 @@ button#LogIn{
 /*change content of the "Our Mission" statement*/
 .missionStatement > ul > li{
     margin-bottom: 25px;
-    width: 500px;
+    width: 400px;
 }
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
@@ -145,8 +145,8 @@ button#LogIn{
 }
 
 .briefResources{
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 250px;
+    padding-right: 250px;
     display: flex;
     justify-content: space-around; 
     align-items: center;
