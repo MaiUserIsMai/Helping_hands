@@ -135,10 +135,11 @@ button#LogIn{
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
 
-.resourceHeader {
+.resourceHeader > h1 {
     font-size: 35px;
     text-align: center;
-    margin-bottom: 50px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .briefResources{
