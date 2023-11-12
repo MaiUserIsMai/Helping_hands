@@ -101,6 +101,7 @@ button#LogIn{
 .mission{
     background-color: #F2F4F8;
     display: flex;
+    padding: 20px;
 }
 
 /*change content of the unordered list area*/
@@ -118,19 +119,19 @@ button#LogIn{
     color: #04724D;
     padding-left: 20px;
     margin-top: 100px;
-    margin-bottom: 0;
+    margin-bottom: 20px;
 }
 
 /*change content of the Our Mission Message area (Our mission + statements)*/
 .missionStatement{
    padding-left: 90px;
-   width: 50%;
+   width: 70%;
 }
 
 /*change content of the "Our Mission" statement*/
 .missionStatement > ul > li{
     margin-bottom: 25px;
-    width: 400px;
+    width: 100%;
 }
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
