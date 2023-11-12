@@ -62,7 +62,7 @@ li.signUp{
     float: right;
 }
 
-/*Cange Helping Hands Logo*/
+/*Change Helping Hands Logo*/
 a.Logo{
     padding: 0;
 }
@@ -135,8 +135,6 @@ button#LogIn{
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
 
-
-
 .briefResources{
     display: flex;
     justify-content: space-around; 
@@ -149,8 +147,21 @@ button#LogIn{
 }
 
 .resource img {
-    max-width: 100px; /* Adjust as needed */
+    max-width: 100px; 
     height: auto;
 }
+/*----------------Footer----------------*/
 
+/*changes background of footer*/
+footer {
+    background-color: #666; 
+    color: #fff; 
+    padding: 20px 0; 
+    text-align: center;
+}
 
+/*centers footer*/
+.footer-content {
+    max-width: 800px; 
+    margin: 0 auto; 
+}
