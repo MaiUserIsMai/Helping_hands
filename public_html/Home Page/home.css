@@ -136,8 +136,9 @@ button#LogIn{
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
 
 .resourceHeader {
+    font-size: 35px;
     text-align: center;
-    padding: 100px; 
+    margin-bottom: 50px;
 }
 
 .briefResources{
