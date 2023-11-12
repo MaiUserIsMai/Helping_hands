@@ -130,7 +130,7 @@ button#LogIn{
 /*change content of the "Our Mission" statement*/
 .missionStatement > ul > li{
     margin-bottom: 25px;
-    width: 600px;
+    width: 800px;
 }
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
