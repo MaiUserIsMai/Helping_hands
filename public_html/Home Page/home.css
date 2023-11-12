@@ -136,8 +136,8 @@ button#LogIn{
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
 
 .resourceHeader > h1 {
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 75px;
     font-size: 35px;
     text-align: center;
     margin: 0;
