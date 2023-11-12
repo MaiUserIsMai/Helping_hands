@@ -18,7 +18,7 @@ nav{
 
 /*ul for navigation bar*/
 nav > ul{
-    padding: 40px;
+    padding: 200px;
     margin: 0;
     list-style: none;
 }
