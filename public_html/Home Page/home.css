@@ -144,11 +144,13 @@ button#LogIn{
 }
 
 .briefResources{
+    padding-left: 50px;
+    padding-right: 50px;
     display: flex;
     justify-content: space-around; 
     align-items: center;
     flex-wrap: wrap; 
-    padding-bottom: 125px;
+    padding-bottom: 100px;
 }
 .resource {
     text-align: center;
