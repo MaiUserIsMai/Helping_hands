@@ -57,7 +57,7 @@ input.searchBar{
 
 /*Change contents outside Sign up button*/
 li.signUp{
-    padding: 0;
+    padding-right: 30px;
     margin-top: 35px;
     margin-left: 15px;
     float: right;
