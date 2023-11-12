@@ -18,7 +18,7 @@ nav{
 
 /*ul for navigation bar*/
 nav > ul{
-    padding: 200px;
+    padding: 20px;
     margin: 0;
     list-style: none;
 }
@@ -38,6 +38,10 @@ nav > ul > li > a{
     text-decoration: none;
     color: black;
     margin-right: 15px;
+}
+
+nav li {
+    margin-right: 100px; /* Adjust as needed for spacing between items */
 }
 
 /*Change contents outside (the position) )Search Bar Input*/
