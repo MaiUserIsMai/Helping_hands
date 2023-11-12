@@ -135,14 +135,7 @@ button#LogIn{
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
 
-.resourceLogos{
-    width:100%;
-}
 
-.resourceLogos > h1{
-    padding-top: 50px;
-    text-align: center;
-}
 
 .briefResources{
     display: flex;
@@ -155,8 +148,9 @@ button#LogIn{
     margin: 20px; /* Adjust as needed for spacing between items */
 }
 
-.briefResources > p{
-    width: 250px;
-    padding: 50px 50px;
+.resource img {
+    max-width: 100px; /* Adjust as needed */
+    height: auto;
 }
+
 
