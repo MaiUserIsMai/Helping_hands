@@ -145,12 +145,14 @@ button#LogIn{
 }
 
 .briefResources{
-    padding: 20px;
-    margin: 0;
-    list-style: none;
     display: flex;
-    justify-content: center;
-    text-align: center;  
+    justify-content: space-around; 
+    align-items: center;
+    flex-wrap: wrap; 
+}
+.resource {
+    text-align: center;
+    margin: 20px; /* Adjust as needed for spacing between items */
 }
 
 .briefResources > p{
