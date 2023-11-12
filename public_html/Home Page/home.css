@@ -137,7 +137,7 @@ button#LogIn{
 
 .resourceHeader > h1 {
     padding-top: 75px;
-    padding-bottom: 75px;
+    padding-bottom: 50px;
     font-size: 35px;
     text-align: center;
     margin: 0;
@@ -148,6 +148,7 @@ button#LogIn{
     justify-content: space-around; 
     align-items: center;
     flex-wrap: wrap; 
+    padding-bottom: 125px;
 }
 .resource {
     text-align: center;
