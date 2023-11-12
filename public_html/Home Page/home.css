@@ -7,7 +7,7 @@ body{
 
 /*----------------MISSION STATEMENT SECTION----------------*/
 
-/*The entire navigation bar: logo, 5 feautures, search bar, log in, and sign up*/
+/*The entire navigation bar: logo, 5 features, search bar, log in, and sign up*/
 nav{
     width: 100%;
     height: auto;
@@ -27,6 +27,7 @@ nav > ul{
 li img{
     float: left;
     padding-left: 30px;
+    padding-right: 30px;
 }
 
 /*Change contents outside Navigation bar for the 5 features*/
@@ -130,7 +131,7 @@ button#LogIn{
 /*change content of the "Our Mission" statement*/
 .missionStatement > ul > li{
     margin-bottom: 25px;
-    width: 400px;
+    width: 500px;
 }
 
 /*----------------RESOURCES OFFERED SECTION (AT THE BOTTOM)----------------*/
@@ -144,8 +145,8 @@ button#LogIn{
 }
 
 .briefResources{
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
     display: flex;
     justify-content: space-around; 
     align-items: center;
