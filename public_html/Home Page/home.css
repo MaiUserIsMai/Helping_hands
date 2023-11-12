@@ -137,7 +137,7 @@ button#LogIn{
 
 .resourceLogos {
     text-align: center;
-    padding: 200px; /* Adjust as needed for spacing between items */
+    padding: 100px; 
 }
 
 .briefResources{
@@ -148,7 +148,7 @@ button#LogIn{
 }
 .resource {
     text-align: center;
-    margin: 20px; /* Adjust as needed for spacing between items */
+    margin: 20px; 
 }
 
 .resource img {
